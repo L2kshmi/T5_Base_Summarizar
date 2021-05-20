@@ -1,1 +1,1 @@
-Datasets considered in the first trail finetuning
+Datasets considered in the first trial finetuning
